@@ -1,0 +1,6 @@
+export DEVSHELL_PROJECT_ID=
+export ZONE=
+
+curl -LO raw.githubusercontent.com/SumedhDongre031/googleCloudTestingScripts/refs/heads/main/AutoscalinganInstanceGroupwithCustomCloudMonitoringMetrics/gsp087.sh
+
+./gsp087.sh
