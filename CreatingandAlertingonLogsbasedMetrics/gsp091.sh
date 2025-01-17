@@ -46,7 +46,7 @@ cat > pubsub-channel.json <<EOF_END
   "displayName": "awesome",
   "description": "Hiiii There !!",
   "labels": {
-    "topic": "projects/$DEVSHELL_PROJECT_ID/topics/notificationTopic"
+    "topic": "projects/$PROJECT_ID/topics/notificationTopic"
   }
 }
 EOF_END

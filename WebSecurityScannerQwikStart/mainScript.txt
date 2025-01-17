@@ -1,0 +1,5 @@
+export REGION=
+
+curl -LO 
+
+./gsp112.sh

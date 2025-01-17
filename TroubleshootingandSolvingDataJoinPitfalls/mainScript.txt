@@ -1,0 +1,3 @@
+curl -LO raw.githubusercontent.com/SumedhDongre031/googleCloudTestingScripts/refs/heads/main/TroubleshootingandSolvingDataJoinPitfalls/gsp412.sh
+
+./gsp412.sh 
