@@ -1,3 +1,3 @@
 export ZONE=
-curl -LO 
+curl -LO raw.githubusercontent.com/SumedhDongre031/googleCloudTestingScripts/refs/heads/main/RunningaMongoDBDatabaseinKuberneteswithStatefulSets/gsp022.sh
 ./gsp022.sh
