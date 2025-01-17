@@ -27,7 +27,7 @@ echo "${BG_MAGENTA}${BOLD}Starting Execution${RESET}"
 
 gcloud config set compute/zone $ZONE 
 
-export PROJECT_ID=$DEVSHELL_PROJECT_ID
+export PROJECT_ID=$(gcloud info --format='value(config.project)')
 
 gcloud container clusters create hello-world --num-nodes=2
 
